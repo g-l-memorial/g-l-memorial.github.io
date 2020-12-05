@@ -1,0 +1,108 @@
+FORM.anketaForm {
+	margin: 0;
+	padding: 0;
+	}
+TABLE.anketaTable {
+  border-collapse: collapse;
+  border-spacing: 0px;
+	}
+TABLE.anketaTable TD {
+  padding: 5px 0;
+  border-top: 1px solid #c9c9c9;
+  font-size: 100%;
+	vertical-align: top;
+	}
+TABLE.anketaTable TD TABLE TD {
+  border-top: 0px;
+  padding: 0px;
+	height: auto;
+	}
+TABLE.anketaTable TD.anketaLabel {
+  padding: 7px 6px 6px 0;
+	}
+.anketaField, .anketaField INPUT, .anketaField SELECT, .anketaField TEXTAREA {
+  font-size: 100%;
+	}
+TABLE.anketaTable .anketaLabel {
+  font-size: 100%;
+	}
+div.anketaField {
+  font-size: 100%;
+  background-color: #ffffff;
+  border: 2px inset #808080;
+  overflow: auto;
+  width: 100%;
+	}
+.anketaField span.anketaLabel {
+	display: block;
+	/* float: left; */
+	margin-bottom: 5px;
+	}
+.anketaField INPUT, .anketaField SELECT, .anketaField TEXTAREA, .anketaField BUTTON {
+  vertical-align: middle;
+	border: 1px solid #c9c9c9;
+	}
+.anketaComment, .anketaComment P, P.anketaComment {
+  font-size: 100%;
+  font-style: italic;
+	}
+TABLE.anketaTable .anketaDelimiterText {
+  font-weight: bold;
+  background-color: #dfdfdf;
+  padding: 7px 6px 7px 0;
+	}
+.anketaButtons {
+  padding: 7px 0;
+	border-top: 1px solid #c9c9c9;
+	padding: 5px 0;
+	}
+.anketaError {
+  font-size: 100%;
+  color: #ff0000;
+	}
+BODY.anketaPopupHelp {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	margin: 0;
+	padding: 10px;
+	}
+A.anketaPopupHelp IMG {
+	display: inline;
+	}
+.anketaPopupHelp P, .anketaPopupHelp LI {
+	font-size: 100%;
+	}
+.anketaTabs {
+  margin: 0;
+  padding: 0;
+	}
+.anketaTabs LI {
+  list-style: none;
+	display: block;
+	float: left;
+  padding: 0;
+	margin: 0 10px 0 0;
+	}
+.anketaTabs A {
+	display: block;
+  padding: 7px 5px;
+	border-style: solid;
+	border-color: #c9c9c9;
+	border-width: 1px 1px 0 1px;
+	font-size: 100%;
+	font-weight: bold;
+	}
+.anketaTabs A.current {
+	background-color: #c9c9c9;
+	cursor: text;
+	text-decoration: none;
+	color: #000000;
+	}
+.anketaTabContainer {
+	clear: both;
+	border-top: 1px solid #c9c9c9;
+	}
+.anketaTable TD.edit {
+	text-align: right;
+	padding: 5px;
+	}

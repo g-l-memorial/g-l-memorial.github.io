@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [
+	<!ENTITY % HTMLlat1 PUBLIC
+  	"-//W3C//ENTITIES Latin 1 for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">
+	%HTMLlat1;
+
+	<!ENTITY % HTMLspecial PUBLIC
+  	"-//W3C//ENTITIES Special for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent">
+	%HTMLspecial;
+	
+	<!ENTITY % HTMLsymbol PUBLIC
+  	"-//W3C//ENTITIES Symbols for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent">
+	%HTMLsymbol;
+]>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>Чтения памяти Г.В.Лебедева</title>
+	<description>Лебедевские чтения проводятся ежегодно и посвящены проектам, продвигающим идеи свободы. Первые Чтения прошли 21 мая 2005 года. Вторые Чтения прошли 20 мая 2006 года. Третьи Чтения прошли 26 мая 2007 года. Четвертые Чтения прошли 24 мая 2008 года. Пятые Чтения прошли 23 мая 2009 года. Шестые Чтения прошли 15 мая 2010 года. Седьмые Чтения прошли 21 мая 2011 года. Восьмые Чтения прошли 19 мая 2012 года. Девятые Чтения прошли 18 мая 2013 года. Десятые Чтения прошли 24 мая 2014 года. Одиннадцатые Чтения прошли 23 мая 2015 года. Двенадцатые Чтения прошли 21 мая 2016 года. Тринадцатые Чтения прошли 20 мая 2017 года. Четырнадцатые Чтения прошли 19 мая 2018 года. Пятнадцатые Чтения прошли 18 мая 2019 года.</description>
+	<language>ru</language>
+	<link>http://g-l-memorial.ice.ru</link> 
+	<copyright>Copyright 2020 Чтения памяти Г.В.Лебедева</copyright>
+	
+		<managingEditor>ailev@asmp.msk.su</managingEditor>
+	
+	
+	<pubDate/>
+	<lastBuildDate/>
+	
+	
+		<item>  
+			<title>Ссылка "Материалы чтений с 2021 года"</title>
+			<link>http://g-l-memorial.ice.ru/1084421</link>
+			
+			
+			
+			<pubDate/>
+			<guid>1084421</guid>
+		</item>
+	
+		<item>  
+			<title>Рубрика "Материалы чтений с 2021 года"</title>
+			<link>http://g-l-memorial.ice.ru/1084420</link>
+			
+			
+			
+			<pubDate/>
+			<guid>1084420</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Александр Куряев, &quot;О &quot;причине&quot; Промышленной революции в Англии в конце XVIII века&quot; (текст доклада)"</title>
+			<link>http://g-l-memorial.ice.ru/950316</link>
+			
+			
+			
+			<pubDate/>
+			<guid>950316</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Александр Куряев, презентация книги М.Ротбарда &quot;Экономическая мысль&quot; в 2-х т."</title>
+			<link>http://g-l-memorial.ice.ru/950315</link>
+			
+			
+			
+			<pubDate/>
+			<guid>950315</guid>
+		</item>
+	
+		<item>  
+			<title>Ссылка "Видео всех докладов 2019г."</title>
+			<link>http://g-l-memorial.ice.ru/941747</link>
+			
+			
+			
+			<pubDate/>
+			<guid>941747</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Александр Школьников, &quot;Краткая история счётчика&quot;."</title>
+			<link>http://g-l-memorial.ice.ru/941744</link>
+			
+			
+			
+			<pubDate/>
+			<guid>941744</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Александр Куряев, &quot;О &quot;причине&quot; Промышленной революции в Англии в конце XVIII века&quot; (слайды)."</title>
+			<link>http://g-l-memorial.ice.ru/941743</link>
+			
+			
+			
+			<pubDate/>
+			<guid>941743</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Юрий Кузнецов, &quot;Новое пришествие социализма?&quot;."</title>
+			<link>http://g-l-memorial.ice.ru/941742</link>
+			
+			
+			
+			<pubDate/>
+			<guid>941742</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Максим Савченко, &quot;Яков Новиков -- социолог, экономист, предприниматель&quot;."</title>
+			<link>http://g-l-memorial.ice.ru/941741</link>
+			
+			
+			
+			<pubDate/>
+			<guid>941741</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Валерий Кизилов, &quot;Британские железные дороги в XXI веке. Между государством и рынком&quot;."</title>
+			<link>http://g-l-memorial.ice.ru/941740</link>
+			
+			
+			
+			<pubDate/>
+			<guid>941740</guid>
+		</item>
+	  
+</channel>
+</rss>
+
+
+
